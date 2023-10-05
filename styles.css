@@ -1,0 +1,13 @@
+* {
+    background-color: bisque;
+}
+
+h1 {
+    color: black;
+}
+
+ul {
+    color: brown;
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+}

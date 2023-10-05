@@ -1,0 +1,24 @@
+* {
+    background-color: darkslategray;
+    color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif
+
+}
+
+h1 {
+    font-weight: bolder
+} 
+
+h2, h3 {
+    font-weight: 200
+}
+
+li {
+    color: blanchedalmond;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+
